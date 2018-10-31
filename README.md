@@ -19,3 +19,5 @@ Untuk menjalankan kode kamu perlu menginstal
 - RSpec
 
 Tutorial cara instal Ruby bisa dipelajari [di sini](https://www.idrails.com/cara-instal-ruby-di-ubuntu-mac)
+
+hektober
